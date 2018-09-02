@@ -1,4 +1,4 @@
-##Introduction
+Introduction
 
 This repository aims to be a portfolio of my work during the 'Applied Data Science With Python' specialization created by the University of Michigan on Coursera. It also serves me as a back up of various tips & tricks used for data cleansing, manipulation, model training & visualization.
 
